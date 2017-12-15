@@ -1,0 +1,3255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="treeItems.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/thibaut/Dropbox/teaching/MSc-Imperial/phylogenetics/lecture/figs/treeItemsRoot.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6791"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3638"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3634"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3630"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3626"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3622"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3618"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4896"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4577"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4262"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4258"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4254"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3269"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2890"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2915"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715-83"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715-80"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3764"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3792"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3814"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3836"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3836-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3836-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3836-68"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3836-83"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3894"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3916"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3938"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3964"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3986"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4008"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4008-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4008-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4008-56"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4008-62"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-10"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4142"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4177"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4199"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4199-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4230"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4302"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4324"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4324-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4355"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4377"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4399"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4421"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4421-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4421-02"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4421-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4470"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4492"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         id="path3269-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4520"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         id="path3269-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4548"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-14"
+       style="overflow:visible">
+      <path
+         id="path3269-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5416"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-8"
+       style="overflow:visible">
+      <path
+         id="path4577-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         id="path3269-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2963"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3825"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3902"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-8"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective3972"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4002"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4002-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4113"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-7"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4113-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-5"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4113-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-86"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-1"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4113-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-80"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-2"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4306"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7-3"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4306-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9-78"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7-8"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4306-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7-1"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4306-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1-12"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8-29"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7-6"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4306-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-1-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-9-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-8-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-7-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-7-9"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4540"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4540-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4540-73"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4540-75"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4540-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4803"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4825"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4825-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4856"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-8-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-2-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-3-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-86-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-1-3"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4926"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2979-7-8-9-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2983-0-2-8-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987-5-3-5-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991-1-86-7-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2999-3-1-3-9"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4996"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         id="path3269-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5024"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         id="path3269-11"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5052"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-06"
+       style="overflow:visible">
+      <path
+         id="path3269-68"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5080"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         id="path3269-60"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5108"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13"
+       style="overflow:visible">
+      <path
+         id="path3269-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3017"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3254"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3254-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3424"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3446"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3468"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3490"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4352"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-0"
+       style="overflow:visible">
+      <path
+         id="path3269-7-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4383"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-1"
+       style="overflow:visible">
+      <path
+         id="path3269-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4414"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-05"
+       style="overflow:visible">
+      <path
+         id="path3269-7-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-3"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4414-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-9"
+       style="overflow:visible">
+      <path
+         id="path3269-7-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-0"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4475"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-4"
+       style="overflow:visible">
+      <path
+         id="path3269-7-04"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-0-7"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4482"
+       style="overflow:visible">
+      <path
+         id="path4484"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-3-8"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4487"
+       style="overflow:visible">
+      <path
+         id="path4489"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-7"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4492"
+       style="overflow:visible">
+      <path
+         id="path4494"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-6"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4475-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-2"
+       style="overflow:visible">
+      <path
+         id="path3269-7-07"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-0-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4482-7"
+       style="overflow:visible">
+      <path
+         id="path4484-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-3-81"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4487-8"
+       style="overflow:visible">
+      <path
+         id="path4489-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-3"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4492-7"
+       style="overflow:visible">
+      <path
+         id="path4494-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-7"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4627"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-9"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4652"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-9-3"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4677"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-0"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4727"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-14"
+       style="overflow:visible">
+      <path
+         id="path3269-7-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-67"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4734"
+       style="overflow:visible">
+      <path
+         id="path4736"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-1"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4739"
+       style="overflow:visible">
+      <path
+         id="path4741"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-3-6"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4744"
+       style="overflow:visible">
+      <path
+         id="path4746"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-0-5"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4827"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-0-2"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4852"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-0-2-9"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4877"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4568-0-2-9-9"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective4906"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5051"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5051-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5098"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-49"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-17"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-11"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-59"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-75"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-11-3"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-31"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-11-8"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-11-33"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-86"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-048"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-4-11-88"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13-94"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3269-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3292-1-49-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3622-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3626-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3630-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3634-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3638-2"
+       is_visible="true" />
+    <filter
+       id="filter3482"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3484"
+         flood-opacity="0.5"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite3486"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3488"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3490"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3492"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3537" />
+      <feFlood
+         id="feFlood3539"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3541"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3543"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3545"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3547"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3525"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3527"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3529"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3531"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3533"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3535"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3482-0"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3484-3"
+         flood-opacity="0.5"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite3486-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3488-1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3490-5"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3492-8"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3537-1" />
+      <feFlood
+         id="feFlood3539-8"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3541-2"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3543-6"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3545-9"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3547-0"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4673"
+       x="-0.19484877"
+       width="1.3896975"
+       y="-0.086696574"
+       height="1.1733931">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.776571"
+         id="feGaussianBlur4675" />
+    </filter>
+    <filter
+       id="filter4726"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4728"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4730"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4732"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4734"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4736"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4780"
+       x="-0.492"
+       width="1.984"
+       y="-0.492"
+       height="1.984">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1416254"
+         id="feGaussianBlur4782" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4798"
+       x="-0.48"
+       width="1.96"
+       y="-0.48"
+       height="1.96">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.7360338"
+         id="feGaussianBlur4800" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3638-2-9"
+       is_visible="true" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4780-6"
+       x="-0.49200001"
+       width="1.984"
+       y="-0.49200001"
+       height="1.984">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1416254"
+         id="feGaussianBlur4782-9" />
+    </filter>
+    <filter
+       id="filter6119"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6119-0"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121-3"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125-9"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127-0"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129-1"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter6279">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.536332"
+         id="feGaussianBlur6281" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6119-08"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121-1"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125-0"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127-1"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129-14"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6119-6"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121-9"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123-39"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125-1"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127-5"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129-9"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6119-6-4"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121-9-3"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123-39-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125-1-8"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127-5-0"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129-9-6"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4809"
+       x="-0.052322645"
+       width="1.1046453"
+       y="-0.75279421"
+       height="2.5055884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4002913"
+         id="feGaussianBlur4811" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4813"
+       x="-0.04011635"
+       width="1.0802327"
+       y="-0.97203669"
+       height="2.9440734">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8081097"
+         id="feGaussianBlur4815" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4817"
+       x="-0.031068124"
+       width="1.0621362"
+       y="-0.75279421"
+       height="2.5055884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4002913"
+         id="feGaussianBlur4819" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6119-69"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6121-4"
+         flood-opacity="0.25"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6123-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6125-8"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset6127-7"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite6129-4"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="484.29521"
+     inkscape:cy="254.10241"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1173"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3554" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#916f6f;fill-opacity:0.94901961;stroke:none"
+       id="rect4499"
+       width="142.14285"
+       height="72.857117"
+       x="-481.42856"
+       y="586.23737"
+       rx="8.6858568"
+       ry="10.329369"
+       inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       id="g4683"
+       transform="translate(789.98681,-96.49165)">
+      <g
+         style="fill:#ff0000;stroke:#ff8080;stroke-width:20;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4673)"
+         id="g3474-3"
+         transform="translate(1.7867317,0.62180935)">
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-0-7-1"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,538.68081,535.62218)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-0-2-3"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,0.50367883,0.50367883,0,579.66035,392.84394)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-3-8-1"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,0.50367883,0.50367883,0,549.35577,324.9638)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-6-2-3"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,562.48776,284.18503)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-73-9-4"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,583.70096,216.08151)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#ff8080;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-9-1-9-9"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,460.96743,336.77077)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+      </g>
+      <text
+         inkscape:export-ydpi="120"
+         inkscape:export-xdpi="120"
+         inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+         sodipodi:linespacing="125%"
+         id="text3392"
+         y="310.98813"
+         x="667.32257"
+         style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a02c2c;fill-opacity:0.94901961;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:italic"
+           y="310.98813"
+           x="667.32257"
+           id="tspan3394"
+           sodipodi:role="line">- &quot;taxa&quot;</tspan><tspan
+           style="font-style:italic"
+           y="342.0347"
+           x="667.32257"
+           sodipodi:role="line"
+           id="tspan4702">- &quot;tips&quot;</tspan><tspan
+           style="font-style:italic"
+           id="tspan3396"
+           y="373.08127"
+           x="667.32257"
+           sodipodi:role="line">- &quot;leaves&quot;</tspan><tspan
+           style="font-style:italic"
+           id="tspan3402"
+           y="404.12781"
+           x="667.32257"
+           sodipodi:role="line">- &quot;Operational Taxonomic </tspan><tspan
+           style="font-style:italic"
+           id="tspan3408"
+           y="435.17438"
+           x="667.32257"
+           sodipodi:role="line">Units (OTUs)&quot;</tspan></text>
+      <g
+         id="g4677"
+         style="filter:url(#filter4726)">
+        <rect
+           style="fill:#a02c2c;fill-opacity:0.94901961;stroke:none"
+           id="rect4438-6"
+           width="290.79639"
+           height="56.325058"
+           x="658.495"
+           y="222.67397"
+           rx="10.256049"
+           ry="10.256049"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <g
+           id="g3389"
+           transform="translate(-2.0203051,-189.90868)">
+          <text
+             inkscape:export-ydpi="120"
+             inkscape:export-xdpi="120"
+             inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+             sodipodi:linespacing="125%"
+             id="text3392-9"
+             y="447.73376"
+             x="681.17206"
+             style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.94901961;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-style:normal;fill:#ffffff"
+               id="tspan3408-91"
+               y="447.73376"
+               x="681.17206"
+               sodipodi:role="line">analysed sequences</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3453"
+       transform="translate(-72,0)">
+      <g
+         transform="translate(111.25892,26.263966)"
+         style="filter:url(#filter3482)"
+         id="g3474">
+        <path
+           sodipodi:type="star"
+           style="fill:#37c871;fill-opacity:1;stroke:#217844;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-0-7"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,538.68081,535.62218)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#00aa44;fill-opacity:1;stroke:#008033;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-0-2"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,0.50367883,0.50367883,0,579.66035,392.84394)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#aad400;fill-opacity:1;stroke:#88aa00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-3-8"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,0.50367883,0.50367883,0,549.35577,324.9638)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#d35f5f;fill-opacity:1;stroke:#c83737;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-6-2"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,562.48776,284.18503)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#cd87de;fill-opacity:1;stroke:#8800aa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-73-9"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,583.70096,216.08151)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#aa87de;fill-opacity:1;stroke:#5a2ca0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3852-4-9-1-9"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,460.96743,336.77077)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+      </g>
+      <g
+         transform="translate(109.09648,26.263966)"
+         style="filter:url(#filter3525)"
+         id="g3518">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 587.85564,437.32581 -51.53523,0 0,-68.71364 21.23065,0"
+           id="path3620"
+           inkscape:path-effect="#path-effect3622-5"
+           inkscape:original-d="m 587.85564,437.32581 -51.53523,0 0,-68.71364 21.23065,0"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 536.32041,402.96899 -68.71363,0 0,85.89204 82.85577,0"
+           id="path3624"
+           inkscape:path-effect="#path-effect3626-1"
+           inkscape:original-d="m 536.32041,402.96899 -68.71363,0 c 0,28.63068 -36.24556,46.68974 0,85.89204 l 82.85577,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 569.16782,239.77411 -58.61502,0 0,-68.71363 77.30284,0"
+           id="path3628"
+           inkscape:path-effect="#path-effect3630-8"
+           inkscape:original-d="m 569.16782,239.77411 -58.61502,0 0,-68.71363 77.30284,0"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 510.5528,205.41729 -113.53523,0 0,85.89204 67.09438,0"
+           id="path3632"
+           inkscape:path-effect="#path-effect3634-2"
+           inkscape:original-d="m 510.5528,205.41729 -113.53523,0 0,85.89204 67.09438,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 467.60678,445.91501 -266.71364,0 0,-197.5517 196.69586,0"
+           id="path3636"
+           inkscape:path-effect="#path-effect3638-2"
+           inkscape:original-d="m 467.60678,445.91501 -266.71364,0 c -38.39335,-67.08906 -0.38213,-131.71346 0,-197.5517 l 196.69586,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:21.4701252px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="429.43622"
+       y="543.91772"
+       id="text5037-1"><tspan
+         sodipodi:role="line"
+         x="429.43622"
+         y="543.91772"
+         id="tspan5041-3" /></text>
+    <g
+       id="g5003"
+       style="fill:#916f6f;fill-opacity:0.94901961"
+       inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="translate(-732.85714,115.71429)">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#916f6f;fill-opacity:0.94901961;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 199.28125,458.09375 0,2 260,0 0,-2 -260,0 z"
+         id="path4501"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#916f6f;fill-opacity:0.94901961;fill-rule:evenodd;stroke:#916f6f;stroke-width:0.8pt;stroke-opacity:0.94901961;marker-start:none"
+         d="m 207.28572,459.09448 4,-4 -14,4 14,4 -4,-4 z"
+         id="path5009"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#916f6f;fill-opacity:0.94901961;fill-rule:evenodd;stroke:#916f6f;stroke-width:0.8pt;stroke-opacity:0.94901961;marker-start:none"
+         d="m 451.28572,459.09448 -4,4 14,-4 -14,-4 4,4 z"
+         id="path5011"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0.94901961;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.94901961;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -242.34186,353.48234 -18.68782,0"
+       id="path5013"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <text
+       xml:space="preserve"
+       style="font-size:38.93140793px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-369.14767"
+       y="309.10385"
+       id="text5015"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         sodipodi:role="line"
+         id="tspan5017"
+         x="-369.14767"
+         y="309.10385">root</tspan></text>
+    <g
+       id="g4862"
+       transform="translate(-1003.3708,-229.36699)">
+      <g
+         transform="translate(1086.2857,42.857142)"
+         id="g4845">
+        <rect
+           style="fill:#0088aa;fill-opacity:0.94901961;stroke:none"
+           id="rect4438"
+           width="446.82596"
+           height="75.714256"
+           x="-525.15228"
+           y="5.4215317"
+           rx="9.6766472"
+           ry="9.6766472"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <text
+           xml:space="preserve"
+           style="font-size:24.83725166px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-302.88266"
+           y="35.792557"
+           id="text3392-6"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"><tspan
+             sodipodi:role="line"
+             x="-302.88266"
+             y="35.792557"
+             id="tspan4432"
+             style="text-align:center;text-anchor:middle;fill:#ffffff">Most Recent Common Ancestors</tspan><tspan
+             sodipodi:role="line"
+             x="-302.88266"
+             y="66.839119"
+             id="tspan4434"
+             style="text-align:center;text-anchor:middle;fill:#ffffff">(MRCA)</tspan><tspan
+             sodipodi:role="line"
+             x="-302.88266"
+             y="97.885689"
+             id="tspan4430"
+             style="text-align:center;text-anchor:middle;fill:#ffffff" /></text>
+      </g>
+      <path
+         transform="matrix(0.9246212,0,0,0.9246212,39.967992,19.592972)"
+         d="m 520.22857,199.62225 c 0,5.57892 -4.52261,10.10153 -10.10153,10.10153 -5.57891,0 -10.10152,-4.52261 -10.10152,-10.10153 0,-5.57891 4.52261,-10.10152 10.10152,-10.10152 5.57892,0 10.10153,4.52261 10.10153,10.10152 z"
+         sodipodi:ry="10.101525"
+         sodipodi:rx="10.101525"
+         sodipodi:cy="199.62225"
+         sodipodi:cx="510.12704"
+         id="path4738"
+         style="opacity:0.8;fill:#0088aa;fill-opacity:0.94901961;stroke:#0088aa;stroke-width:20;stroke-miterlimit:4;stroke-opacity:0.94901961;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4780)"
+         sodipodi:type="arc" />
+      <use
+         style="filter:url(#filter4798)"
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(-311.12698,143.44166)"
+         id="use4786"
+         xlink:href="#path4738"
+         y="0"
+         x="0" />
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(268.70058,100.0051)"
+         id="use4788"
+         xlink:href="#use4786"
+         y="0"
+         x="0" />
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(67.680221,-46.467013)"
+         id="use4790"
+         xlink:href="#use4788"
+         y="0"
+         x="0" />
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(-138.3909,-150.51273)"
+         id="use4792"
+         xlink:href="#use4790"
+         y="0"
+         x="0" />
+      <text
+         inkscape:export-ydpi="120"
+         inkscape:export-xdpi="120"
+         inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+         sodipodi:linespacing="125%"
+         id="text3392-6-4"
+         y="159.79938"
+         x="656.88123"
+         style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:0.94901961;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:italic;fill:#0088aa;fill-opacity:0.94901961"
+           y="159.79938"
+           x="656.88123"
+           id="tspan3394-5-9"
+           sodipodi:role="line">- &quot;nodes&quot;</tspan><tspan
+           style="font-style:italic;fill:#0088aa;fill-opacity:0.94901961"
+           id="tspan3402-7-7"
+           y="190.84595"
+           x="656.88123"
+           sodipodi:role="line">- &quot;Hypothetical Taxonomic </tspan><tspan
+           style="font-style:italic;fill:#0088aa;fill-opacity:0.94901961"
+           id="tspan3408-9-6"
+           y="221.8925"
+           x="656.88123"
+           sodipodi:role="line">Units (HTUs)&quot;</tspan><tspan
+           style="font-style:italic;fill:#0088aa;fill-opacity:0.94901961"
+           id="tspan4434-2"
+           y="252.93907"
+           x="656.88123"
+           sodipodi:role="line" /><tspan
+           style="font-style:italic;fill:#0088aa;fill-opacity:0.94901961"
+           id="tspan4430-7"
+           y="283.98563"
+           x="656.88123"
+           sodipodi:role="line" /></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4854"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4856"><rect
+           id="rect4858"
+           width="348.57144"
+           height="60"
+           x="612.85712"
+           y="12.665911" /></flowRegion><flowPara
+         id="flowPara4860" /></flowRoot>    <g
+       id="g6028"
+       transform="translate(606.00742,-45.50825)">
+      <g
+         id="g6047"
+         transform="translate(665.71429,-577.14286)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.57676125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3525)"
+           d="m 818.0711,547.15605 -782.427923,0 -1.428571,-198.98028 165.981574,0"
+           id="path3636-3"
+           inkscape:path-effect="#path-effect3638-2-9"
+           inkscape:original-d="m 818.0711,547.15605 -782.427923,0 C -2.7501729,480.06699 33.832476,414.01401 34.214606,348.17577 l 165.981574,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           sodipodi:type="star"
+           style="fill:#917c6f;fill-opacity:1;stroke:#241f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3482)"
+           id="path3852-0-7-4"
+           sodipodi:sides="9"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="16.143587"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.37722742"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.46"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.004,9.854003 -17.62197,-4.344325 -21.27736,4.908852 -3.65538,9.253177 19.0071,10.70635 12.51639,18.003958 -6.49071,7.297608 -11.25716,-14.666977 -19.83315,-9.98515 -8.575987,4.681828 6.84036,20.841917 -2.956668,22.147334 -9.79703,1.305418 1.941428,-18.87022 -7.609105,-20.871499 C 81.604814,71.393016 83.877742,94.5887 75.696086,89.207322 67.514431,83.825944 87.183479,75.414069 81.075837,67.632713 74.968195,59.851356 63.009768,79.385645 60.007358,69.961212 57.004948,60.536779 77.274893,66.882307 77.428735,57.026622 77.582577,47.170938 57.660803,53.332646 61.336265,44.270408 65.011728,35.20817 74.924986,55.242637 81.356664,47.66421 87.788342,40.085782 68.656359,30.705631 77.382588,26.255199 c 8.726228,-4.450432 4.47301,17.036198 14.343521,15.729004 9.870511,-1.307195 0.56059,-21.187466 10.130551,-18.92875 9.56995,2.258715 -8.44967,15.821487 0.0116,20.910187 8.46127,5.0887 13.646,-14.964649 19.75972,-7.309747 6.11372,7.654902 -15.19653,6.714882 -12.24105,16.127424 2.95548,9.412541 20.924,-3.446521 20.92832,6.407483 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,814.84304,595.51365)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           transform="matrix(0.9246212,0,0,0.9246212,-436.24571,263.51952)"
+           d="m 520.22857,199.62225 c 0,5.57892 -4.52261,10.10153 -10.10153,10.10153 -5.57891,0 -10.10152,-4.52261 -10.10152,-10.10153 0,-5.57891 4.52261,-10.10152 10.10152,-10.10152 5.57892,0 10.10153,4.52261 10.10153,10.10152 z"
+           sodipodi:ry="10.101525"
+           sodipodi:rx="10.101525"
+           sodipodi:cy="199.62225"
+           sodipodi:cx="510.12704"
+           id="path4738-7"
+           style="opacity:0.8;fill:#00ff00;fill-opacity:0.84705882;stroke:#00d455;stroke-width:20;stroke-miterlimit:4;stroke-opacity:0.84705882;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4780-6)"
+           sodipodi:type="arc" />
+        <rect
+           style="fill:#00aa00;fill-opacity:0.73363259;stroke:none"
+           id="rect4438-7"
+           width="141.11166"
+           height="64.285698"
+           x="75.15844"
+           y="52.793205"
+           rx="14.191055"
+           ry="14.191055"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <g
+           id="g4985"
+           transform="translate(-204.28571,254.28571)">
+          <text
+             inkscape:export-ydpi="120"
+             inkscape:export-xdpi="120"
+             inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+             sodipodi:linespacing="125%"
+             id="text3392-6-7"
+             y="-161.12149"
+             x="348.85666"
+             style="font-size:24.83725166px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               id="tspan4430-73"
+               y="-161.12149"
+               x="348.85666"
+               sodipodi:role="line">Root</tspan><tspan
+               id="tspan4979"
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               y="-130.07492"
+               x="348.85666"
+               sodipodi:role="line" /></text>
+        </g>
+        <text
+           inkscape:export-ydpi="120"
+           inkscape:export-xdpi="120"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           sodipodi:linespacing="125%"
+           id="text3392-6-4-2"
+           y="164.31392"
+           x="25.191959"
+           style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00aa00;fill-opacity:0.73333333;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-style:normal;fill:#00aa00;fill-opacity:0.73333333"
+             y="164.31392"
+             x="25.191959"
+             id="tspan3394-5-9-9"
+             sodipodi:role="line">- oldest part of the tree</tspan><tspan
+             style="font-style:normal;fill:#00aa00;fill-opacity:0.73333333"
+             id="tspan3408-9-6-4"
+             y="195.36049"
+             x="25.191959"
+             sodipodi:role="line">- defined using an <tspan
+   style="font-style:italic;fill:#916f6f;fill-opacity:0.73333333"
+   id="tspan4983">outgroup</tspan></tspan><tspan
+             style="font-style:normal;fill:#00aa00;fill-opacity:0.73333333"
+             id="tspan4434-2-6"
+             y="226.40704"
+             x="25.191959"
+             sodipodi:role="line" /><tspan
+             style="font-style:normal;fill:#00aa00;fill-opacity:0.73333333"
+             id="tspan4430-7-4"
+             y="257.45361"
+             x="25.191959"
+             sodipodi:role="line" /></text>
+        <g
+           id="g6020"
+           style="fill:#00aa00;fill-opacity:0.73333333">
+          <g
+             id="g4440" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6322"
+       transform="translate(44.330964,27.63018)">
+      <text
+         inkscape:export-ydpi="120"
+         inkscape:export-xdpi="120"
+         inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+         sodipodi:linespacing="125%"
+         id="text3392-2"
+         y="562.85413"
+         x="224.55241"
+         style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6464d4;fill-opacity:0.98039216;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:italic;fill:#6464d4;fill-opacity:0.98039216"
+           id="tspan4479"
+           y="562.85413"
+           x="224.55241"
+           sodipodi:role="line">- &quot;edge&quot;</tspan><tspan
+           style="font-style:normal;fill:#6464d4;fill-opacity:0.98039216;-inkscape-font-specification:Sans"
+           y="593.9007"
+           x="224.55241"
+           sodipodi:role="line"
+           id="tspan3559">- length = amount of evolution (<tspan
+   style="font-weight:bold"
+   id="tspan3563">not time</tspan>, as a rule)</tspan><tspan
+           style="font-style:normal;fill:#6464d4;fill-opacity:0.98039216;-inkscape-font-specification:Sans"
+           y="624.94727"
+           x="224.55241"
+           sodipodi:role="line"
+           id="tspan3557">- length is optional</tspan></text>
+      <g
+         id="g6283">
+        <path
+           style="opacity:0.59656647;fill:#ffffff;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6279)"
+           d="m 205.71429,446.23735 269.28572,0"
+           id="path6261"
+           inkscape:connector-curvature="0"
+           transform="matrix(0.95614556,0,0,0.99887369,3.5690366,0.50259861)" />
+        <g
+           id="g5003-4"
+           style="fill:#5f5fd3;fill-opacity:0.94901961;stroke:#5f5fd3;filter:url(#filter6119)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           transform="matrix(1.0584755,0,0,2.1340888,-24.167813,-535.94984)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:nonzero;stroke:#5f5fd3;stroke-width:1.86949539;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 225.49626,458.0478 0,2.0919 217.19474,0 0,-2.0919 -217.19474,0 z"
+             id="path4501-2"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:evenodd;stroke:#5f5fd3;stroke-width:0.8pt;stroke-opacity:0.94901961;marker-start:none"
+             d="m 223.4553,459.09448 4,-4 -14,4 14,4 -4,-4 z"
+             id="path5009-2"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:evenodd;stroke:#5f5fd3;stroke-width:0.8pt;stroke-opacity:0.94901961;marker-start:none"
+             d="m 444.09924,459.09448 -4,4 14,-4 -14,-4 4,4 z"
+             id="path5011-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="translate(218.19295,-71.720831)"
+         id="g6313">
+        <rect
+           style="fill:#6464d4;fill-opacity:0.98039216;stroke:none"
+           id="rect6290"
+           width="135.04567"
+           height="46.766521"
+           x="49.480061"
+           y="549.07336"
+           rx="6.2221875"
+           ry="6.2221875" />
+        <text
+           xml:space="preserve"
+           style="font-size:29.53532028px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="67.591431"
+           y="580.64215"
+           id="text5015-6"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"><tspan
+             sodipodi:role="line"
+             id="tspan5017-4"
+             x="67.591431"
+             y="580.64215">branch</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3537"
+       transform="translate(896.42794,545.36554)">
+      <g
+         id="g4848">
+        <path
+           sodipodi:type="star"
+           style="fill:#5a5ac8;fill-opacity:1;stroke:#5a5ac8;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4673)"
+           id="path3852-4-9-1-9-9-9"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,502.9859,367.51364)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:nonzero;stroke:#5f5fd3;stroke-width:2.12132025;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4817);enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 437.60579,230.22007 0,4.4643 108.17194,0 0,-4.4643 z"
+           id="path4501-2-0-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(1,0,0,2,0,-232.45222)" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:nonzero;stroke:#5f5fd3;stroke-width:2.12132025;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4809);enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 437.60579,315.57795 0,4.4643 64.2303,0 0,-4.4643 z"
+           id="path4501-2-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(1,0,0,2,0,-317.8101)" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5f5fd3;fill-opacity:0.94901961;fill-rule:nonzero;stroke:#5f5fd3;stroke-width:2.73913002;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4813);enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 550.49033,264.06017 0,4.4643 108.17194,0 0,-4.4643 z"
+           id="path4501-2-0-0-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(0.54174815,0,0,2.214215,250.53171,-323.33611)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;stroke:#5f5fd3;stroke-width:39.70784378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4673)"
+           id="path3852-4-9-1-9-9-0"
+           sodipodi:sides="5"
+           sodipodi:cx="93.944183"
+           sodipodi:cy="58.200905"
+           sodipodi:r1="35.874641"
+           sodipodi:r2="11.838632"
+           sodipodi:arg1="0.028161567"
+           sodipodi:arg2="0.6564801"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.57"
+           inkscape:randomized="-0.022"
+           d="m 130.31524,59.1908 c 0.007,15.500512 -17.89615,-6.756681 -27.33573,5.447518 -9.439571,12.204198 15.38728,23.041773 0.39262,27.576013 C 88.377474,96.748571 105.06185,75.368666 90.476479,69.958037 75.891113,64.547408 72.830698,91.136175 64.261401,78.033604 55.692103,64.931032 81.422255,73.252578 81.516025,57.813864 81.609796,42.37515 55.885394,48.555452 65.311312,36.428267 74.73723,24.301083 75.127969,50.354464 90.082709,46.313134 105.03745,42.271805 91.904471,19.714185 106.53459,24.81681 c 14.63013,5.102625 -10.744446,13.713009 -2.08927,26.735749 8.65518,13.02274 25.86313,-7.862272 25.86992,7.638241 z"
+           transform="matrix(0,-0.50367883,0.50367883,0,604.70018,315.22793)"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120" />
+      </g>
+      <g
+         transform="translate(391.49616,-181.12794)"
+         id="g6322-9">
+        <text
+           xml:space="preserve"
+           style="font-size:24.83725166px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6464d4;fill-opacity:0.98039216;stroke:none;font-family:Sans"
+           x="-242.59042"
+           y="827.13983"
+           id="text3392-2-4"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"><tspan
+             sodipodi:role="line"
+             x="-242.59042"
+             y="827.13983"
+             style="font-style:normal;fill:#6464d4;fill-opacity:0.98039216;-inkscape-font-specification:Sans"
+             id="tspan6320-2">- &quot;<tspan
+   id="tspan4940"
+   style="font-style:italic">patristic&quot;</tspan> distance: sum of branch lengths</tspan><tspan
+             id="tspan4938"
+             sodipodi:role="line"
+             x="-242.59042"
+             y="858.1864"
+             style="font-style:normal;fill:#6464d4;fill-opacity:0.98039216;-inkscape-font-specification:Sans">- other measures of distance/dissimilarity</tspan><tspan
+             id="tspan4961"
+             sodipodi:role="line"
+             x="-242.59042"
+             y="889.23297"
+             style="font-style:normal;fill:#6464d4;fill-opacity:0.98039216;-inkscape-font-specification:Sans">- vertical axis meaningless</tspan></text>
+        <g
+           id="g6283-0">
+          <g
+             transform="matrix(1.0584755,0,0,2.1340888,-24.167813,-535.94984)"
+             inkscape:export-ydpi="120"
+             inkscape:export-xdpi="120"
+             inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+             style="fill:#5f5fd3;fill-opacity:0.94901961;stroke:#5f5fd3;filter:url(#filter6119-69)"
+             id="g5003-4-8" />
+        </g>
+        <g
+           id="g6313-4"
+           transform="translate(-227.52133,199.70773)">
+          <rect
+             ry="6.2221875"
+             rx="6.2221875"
+             y="549.07336"
+             x="49.480061"
+             height="46.766541"
+             width="389.33139"
+             id="rect6290-1"
+             style="fill:#6464d4;fill-opacity:0.98039216;stroke:none" />
+          <text
+             inkscape:export-ydpi="120"
+             inkscape:export-xdpi="120"
+             inkscape:export-filename="/home/thibaut/Dropbox/teaching/Leuven2014/lectures/day1/figs/treeVocab.png"
+             sodipodi:linespacing="125%"
+             id="text5015-6-5"
+             y="580.64215"
+             x="67.591431"
+             style="font-size:29.53532028px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="580.64215"
+               x="67.591431"
+               id="tspan5017-4-1"
+               sodipodi:role="line">distances between tips</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
